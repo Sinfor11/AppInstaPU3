@@ -1,3 +1,2 @@
 Aquí van todas las pantallas de la app
-Agregamos login
-Y like
+Agregamos login y like
